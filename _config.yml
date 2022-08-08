@@ -1,6 +1,6 @@
-site: Sidey
+site: Jim Writes
 url: #yoururl
-title: Sidey
+title: Jim Writes
 description: Simple and minimalistic jekyll blogging theme.
 twitter:
   username: #yourusername
@@ -32,7 +32,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-sitemap  
+  - jekyll-sitemap
 
 collections:
   pages:
@@ -60,3 +60,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+      
+paginate: 30

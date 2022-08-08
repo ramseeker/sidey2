@@ -1,12 +1,34 @@
 ---
 layout: default
+title: Search
 ---
 
-<section class="posts">
-<ul>
-{% for post in site.posts %}
-<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
+  <section class="posts">
+I'm Jim.  I have {{ site.posts | size }} things (and counting)<BR><BR>
+
+    
+ {% include search.html %}
+ 
+ 
+<ul>{% for post in paginator.posts %}
+
+{% if post.link %}
+
+          <li><a href="{{ post.link }}"><span class="link-arrow"> &rarr;</span>{{ post.title }}</a> </li>{% endif %}
+
+
+
 {% endfor %}
+
+
+
+
+
+
+
 </ul>
+
+
+
 </section>
 
