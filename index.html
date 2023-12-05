@@ -4,19 +4,19 @@ title: Search
 ---
 
   <section class="posts">
-I'm Jim.  I have {{ site.posts | size }} things (and counting)<BR><BR>
+<h1>I'm Jim.  I have {{ site.posts | size }} things (and counting)</h1><BR><BR>
 
     
  {% include search.html %}
  
- 
-<ul>{% for post in paginator.posts %}
+{% for post in paginator.posts %}
 
-{% if post.link %}
+<ol>
+<li><a href="{{ post.link }}">{{ post.title }}<span class="link-arrow"> &rarr;</span></a>
 
-          <li><a href="{{ post.link }}"><span class="link-arrow"> &rarr;</span>{{ post.title }}</a> </li>{% endif %}
+</li></div>
 
-
+    
 
 {% endfor %}
 
@@ -24,11 +24,4 @@ I'm Jim.  I have {{ site.posts | size }} things (and counting)<BR><BR>
 
 
 
-
-
-</ul>
-
-
-
-</section>
 

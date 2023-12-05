@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "3c95c8e5e4187961",
+    "type": "split",
+    "children": [
+      {
+        "id": "09d31efa53bc8a80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "585bd772d636e624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2022-08-07-ac-delco-aa-batteries.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3295c85f55d1ee2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-12-3-Dickies-Black-Socks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee4c28d95edea4eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "64c9a3c7597135ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94739e85c6a1c2ca",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b3d8c69a9a4af6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b044e136e31b63a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5a390f07b5303276",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af6f19483269501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7216a4bd536c8252",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2023-12-3-Dickies-Black-Socks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99686484492abba6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2023-12-3-Dickies-Black-Socks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "123f6b0f68b59d1e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "276313247f47762d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2023-12-3-Dickies-Black-Socks.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3295c85f55d1ee2a",
+  "lastOpenFiles": [
+    "_posts/2023-11-28-white.mug.md",
+    "_posts/2023-12-3-Dickies-Black-Socks.md",
+    "_site/2023/12/03/dickies-black-socks.html",
+    "_site/2023/12/03",
+    "_site/2023/12",
+    "_site/2023-12-0-Dickies-Black-Socks/index.html",
+    "_site/2023-12-0-Dickies-Black-Socks",
+    "_site/2023-12-04-Dickies-Black-Socks/index.html",
+    "_site/2023-12-04-Dickies-Black-Socks",
+    "_site/Dickies Black Socks/index.html",
+    "_site/Dickies Black Socks",
+    "_site/Dickies Black Socks.md",
+    "_site/Untitled.md",
+    "_posts/2022-08-07-ac-delco-aa-batteries.md",
+    "_posts/2022-08-07-melissa-doug-writemap.md",
+    "_posts/2022-08-07-scrabble-board-game.md",
+    "_posts/2022-08-07-scrabble-dictionary.md",
+    "_posts/22-03-19-eagle-coach-greyhound.md",
+    "_posts/2022-08-08-mens-slippers.md",
+    "_posts/2023-11-28-white-coffee-mug.md",
+    "_posts/2023-11-28-ikea-trivets.md",
+    "_posts/2022-04-03-yellow-classic-bus.md",
+    "_site/2023/11/28/white-coffee-mug.html"
+  ]
+}

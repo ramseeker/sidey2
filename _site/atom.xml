@@ -4,13 +4,49 @@
  <title>Jim Writes</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2022-08-08T07:41:08-04:00</updated>
+ <updated>2023-12-04T20:27:51-05:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Dickies Men's Black Socks</title>
+   <link href="http://localhost:4000/2023/12/03/dickies-black-socks"/>
+   <updated>2023-12-03T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2023/12/03/Dickies-Black-Socks</id>
+   <content type="html">&lt;p&gt;0&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>white coffee mug</title>
+   <link href="http://localhost:4000/2023/11/28/white-coffee-mug"/>
+   <updated>2023-11-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2023/11/28/white-coffee-mug</id>
+   <content type="html">&lt;p&gt;I like white coffee mugs&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>White Tissues</title>
+   <link href="http://localhost:4000/2023/11/28/kleenex"/>
+   <updated>2023-11-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2023/11/28/kleenex</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IKEA Trivets</title>
+   <link href="http://localhost:4000/2023/11/28/ikea-trivets"/>
+   <updated>2023-11-28T00:00:00-05:00</updated>
+   <id>http://localhost:4000/2023/11/28/ikea-trivets</id>
+   <content type="html">
+</content>
+ </entry>
  
  <entry>
    <title>Smart Love Snuggle Puppy</title>

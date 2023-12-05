@@ -1,6 +1,7 @@
 ---
 title: Paradigm Atom v2 with factory wall mounts.
 layout: post
+review: these are pretty good speakers for the price. Great value for about $100
 ---
 
 Of all the speakers I have owned over the years, the Paragigm Atom v2 [bookshelf speakers](https://amzn.to/3Bq9qML) probably offer the best bang for the buck.

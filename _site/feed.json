@@ -13,6 +13,90 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/2023/12/03/dickies-black-socks",
+            "title": "Dickies Men's Black Socks",
+            "summary": null,
+            "content_text": "0",
+            "content_html": "<p>0</p>",
+            "url": "http://localhost:4000/2023/12/03/dickies-black-socks",
+            
+            "external_url": "https://amzn.to/3uJIPe6",
+            
+            
+            
+            "date_published": "2023-12-03T00:00:00-05:00",
+            "date_modified": "2023-12-03T00:00:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2023/11/28/white-coffee-mug",
+            "title": "white coffee mug",
+            "summary": null,
+            "content_text": "I like white coffee mugs",
+            "content_html": "<p>I like white coffee mugs</p>",
+            "url": "http://localhost:4000/2023/11/28/white-coffee-mug",
+            
+            "external_url": "amazon.com",
+            
+            
+            
+            "date_published": "2023-11-28T00:00:00-05:00",
+            "date_modified": "2023-11-28T00:00:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2023/11/28/kleenex",
+            "title": "White Tissues",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/2023/11/28/kleenex",
+            
+            "external_url": "https://amzn.to/47OIhlG",
+            
+            
+            
+            "date_published": "2023-11-28T00:00:00-05:00",
+            "date_modified": "2023-11-28T00:00:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2023/11/28/ikea-trivets",
+            "title": "IKEA Trivets",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/2023/11/28/ikea-trivets",
+            
+            "external_url": "amazon.com",
+            
+            
+            
+            "date_published": "2023-11-28T00:00:00-05:00",
+            "date_modified": "2023-11-28T00:00:00-05:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2022/08/08/snuggle-puppy",
             "title": "Smart Love Snuggle Puppy",
             "summary": null,
@@ -225,7 +309,7 @@
         {
             "id": "http://localhost:4000/2022/08/06/mens-running-socks",
             "title": "Mens Running Socks",
-            "summary": "I wear these out pretty quickly",
+            "summary": null,
             "content_text": " Check Price ",
             "content_html": "<p><a href=\"https://amzn.to/3vJgxhz\"> Check Price </a></p><p><a href=\"https://www.amazon.com/Saucony-Ventilating-Performance-Comfort-No-Show/dp/B01D2GRTIE?crid=18SDA4D9JJL7N&amp;keywords=mens+running+socks&amp;qid=1659797852&amp;sprefix=mens+running+socks%2Caps%2C189&amp;sr=8-5&amp;linkCode=li3&amp;tag=ramseeker-20&amp;linkId=9d10e63932db66fccac648f5e419a602&amp;language=en_US&amp;ref_=as_li_ss_il\" target=\"_blank\"><img border=\"0\" src=\"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B01D2GRTIE&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=ramseeker-20&amp;language=en_US\" /></a><img src=\"https://ir-na.amazon-adsystem.com/e/ir?t=ramseeker-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B01D2GRTIE\" width=\"1\" height=\"1\" border=\"0\" alt=\"\" style=\"border:none !important; margin:0px !important;\" /></p>",
             "url": "http://localhost:4000/2022/08/06/mens-running-socks",
@@ -288,7 +372,7 @@
         {
             "id": "http://localhost:4000/2022/05/11/white-fiat-500",
             "title": "White Fiat 500",
-            "summary": "One of many fiat diecast cars I have. Sold this for $5",
+            "summary": null,
             "content_text": "                                                  ",
             "content_html": "<div class=\"image-gallery\">                                                  </div>",
             "url": "http://localhost:4000/2022/05/11/white-fiat-500",
@@ -677,90 +761,6 @@
             
             "date_published": "2022-03-07T00:00:00-05:00",
             "date_modified": "2022-03-07T00:00:00-05:00",
-            
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
-                
-            
-        },
-    
-        {
-            "id": "http://localhost:4000/2022/02/22/new-headphone-day",
-            "title": "New Headphone Day",
-            "summary": null,
-            "content_text": "I slipped by the Goodwill the other day to drop off some stuff and of course after I had dropped off the stuffI had to go look and see if there was more crap to bring back. :)Turns out there was and I snagged these kids headphones for two bucks. I have to tell you that this might be thebest two dollars ever spent becuase now I don’t have to listen to cocomelon ad nauseum. I don’t know what it is with this showbut it seems that every todddler knows it and loves itAt least, mine does.                                                  ",
-            "content_html": "<p>I slipped by the <a href=\"http://goodwill.com\">Goodwill</a> the other day to drop off some stuff and of course <strong>after</strong> I had dropped off the stuffI had to go look and see if there was more crap to bring back. :)</p><p>Turns out there was and I snagged these <a href=\"https://amzn.to/3h66L1p\">kids headphones</a> for two bucks. I have to tell you that this might be thebest two dollars ever spent becuase now I <strong>don’t have to listen to <a href=\"https://amzn.to/3h6Jhca\">cocomelon</a> ad nauseum.</strong> I don’t know what it is with this showbut it seems that <strong>every todddler</strong> knows it and <strong>loves it</strong></p><p>At least, mine does.</p><div class=\"image-gallery\">                                                  </div>",
-            "url": "http://localhost:4000/2022/02/22/new-headphone-day",
-            
-            
-            
-            
-            
-            "date_published": "2022-02-22T00:00:00-05:00",
-            "date_modified": "2022-02-22T00:00:00-05:00",
-            
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
-                
-            
-        },
-    
-        {
-            "id": "http://localhost:4000/2022/02/21/niagara-aquarium",
-            "title": "A Trip to the Aquarium",
-            "summary": null,
-            "content_text": "Over the weekend we went to the Niagara Falls Aquarium becauseeverybody was getting just a little bit stir crazy as we enter the second halfof Feb.So, I took a few pics:                                                  ",
-            "content_html": "<p>Over the weekend we went to the <a href=\"https://www.aquariumofniagara.org/\">Niagara Falls Aquarium</a> becauseeverybody was getting just a <strong>little bit</strong> stir crazy as we enter the second halfof Feb.</p><p>So, I took a few pics:</p><div class=\"image-gallery\">                                                  </div>",
-            "url": "http://localhost:4000/2022/02/21/niagara-aquarium",
-            
-            
-            
-            
-            
-            "date_published": "2022-02-21T00:00:00-05:00",
-            "date_modified": "2022-02-21T00:00:00-05:00",
-            
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
-                
-            
-        },
-    
-        {
-            "id": "http://localhost:4000/2022/02/15/paradigm-atom-speakers",
-            "title": "Paradigm Atom v2 with factory wall mounts.",
-            "summary": null,
-            "content_text": "Of all the speakers I have owned over the years, the Paragigm Atom v2 bookshelf speakers probably offer the best bang for the buck.But, life changes and I no longer have a need for these so I sold them for $50.00 for the pair.                                                  Shop Bookshelf Speakers on Amazon",
-            "content_html": "<p>Of all the speakers I have owned over the years, the Paragigm Atom v2 <a href=\"https://amzn.to/3Bq9qML\">bookshelf speakers</a> probably offer the best bang for the buck.</p><p>But, life changes and I no longer have a need for these so I sold them for $50.00 for the pair.</p><div class=\"image-gallery\">                                                  </div><p><a href=\"https://amzn.to/3Bq9qML\">Shop Bookshelf Speakers on Amazon</a></p>",
-            "url": "http://localhost:4000/2022/02/15/paradigm-atom-speakers",
-            
-            
-            
-            
-            
-            "date_published": "2022-02-15T00:00:00-05:00",
-            "date_modified": "2022-02-15T00:00:00-05:00",
-            
-                "author": 
-                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
-                
-            
-        },
-    
-        {
-            "id": "http://localhost:4000/2021/09/27/vintage-tin-bus",
-            "title": "Vintage Tin Bus",
-            "summary": null,
-            "content_text": "Sold for $1.11 net to me. Check eBay for PricesI just finished boxing this up for the winning bit of $1.00. You just never know with some of this stuff what you will get. I’m just glad to get it out of the house and into the hands of somebody that appreicates it.                                                  Shop Tin Buses on Amazon",
-            "content_html": "<p>Sold for $1.11 net to me. <a href=\"https://www.ebay.com/sch/i.html?_from=R40&amp;_trksid=p2334524.m570.l1313&amp;_nkw=vintage+tin+bus&amp;_sacat=0&amp;LH_TitleDesc=0&amp;_osacat=0&amp;_odkw=1978+bergamot+brassworks&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;siteid=0&amp;campid=5338921011&amp;toolid=11800&amp;mkevt=1\">Check eBay for Prices</a></p><p>I just finished boxing this up for the winning bit of $1.00. You just never know with some of this stuff what you will get. I’m just glad to get it out of the house and into the hands of somebody that appreicates it.</p><div class=\"image-gallery\">                                                  </div><p><a href=\"https://amzn.to/3ujvqVM\">Shop Tin Buses on Amazon</a></p>",
-            "url": "http://localhost:4000/2021/09/27/vintage-tin-bus",
-            
-            
-            
-            
-            
-            "date_published": "2021-09-27T00:00:00-04:00",
-            "date_modified": "2021-09-27T00:00:00-04:00",
             
                 "author": 
                 "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"

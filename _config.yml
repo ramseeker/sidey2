@@ -62,4 +62,4 @@ defaults:
       layout: "post"
       
       
-paginate: 30
+paginate: 200

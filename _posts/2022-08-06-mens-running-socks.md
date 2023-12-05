@@ -3,7 +3,7 @@ title: Mens Running Socks
 layout: post
 image: https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01D2GRTIE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=ramseeker-20&language=en_US
 link: https://amzn.to/3vJgxhz
-description: I wear these out pretty quickly
+review: I wear these out pretty quickly
 ---
 
 <a href="https://amzn.to/3vJgxhz"> Check Price </a>
